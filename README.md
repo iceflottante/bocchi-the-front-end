@@ -4,6 +4,6 @@
 
 欢迎各位指点迷津，交流互促。
 
-本随笔发布于：[]()
+本随笔发布于 [Github Pages](https://iceflottante.github.io/bocchi-the-front-end/) 可在线查看。
 
 旧版本曾发布于 [GitBook](https://icyzeroice.gitbooks.io/web-front-end-and-more/) 仅留作纪念。
