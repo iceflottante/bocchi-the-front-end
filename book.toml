@@ -1,0 +1,5 @@
+[book]
+authors = ["iceflottante"]
+language = "zh"
+src = "src"
+title = "Bocchi the Front-end!"
